@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi there 👋 It's me HARI SATHEES...</h2>
+<h2 align="left">Hi there 👋 It's me Ganesh...</h2>
 
 ###
 
